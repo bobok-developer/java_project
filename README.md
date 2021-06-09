@@ -1,5 +1,6 @@
-# java_project
-자바를 이용한 피시방 관리 프로그램
+# 자바를 이용한 피시방 관리 프로그램 (미니 팀 프로젝트)
+21. 02. 09 - 03. 05.
+<br>
 
 ### ✨ ppt 설명
 https://www.slideshare.net/secret/v7KqRVh4FdmnOX
